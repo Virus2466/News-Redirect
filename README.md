@@ -8,7 +8,7 @@ A simple bash Script to redirect to your fav tech news website from the Terminal
 git clone https://github.com/Virus2466/News-Redirect.git
 cd News-Redirect 
 chmod +x news
-./news
+./news.sh
 
 ```
 
