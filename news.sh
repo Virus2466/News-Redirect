@@ -16,7 +16,7 @@ echo " --  List of Webistes --  "
 sleep 0.5 
 
 echo "1 - Server Fault"
-echo "2 - Hackernews"
+echo "2 - HackerNews"
 echo "3 - Medium"
 echo "4 - The Verge"
 echo "5 - Linux Foundation"
